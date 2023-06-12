@@ -17,6 +17,7 @@ This repository provides an implementation of the Nearest Neighbor "heuristic" a
 * Compare the result to the optimal solution for performance evaluation.
 
 ## Technologies Used
+The solver implementation is primarily written in Python, leveraging its rich ecosystem of libraries and tools for data manipulation, algorithm implementation, and optimization.
 
 ## Data
 [TSP_Data](https://github.com/kevinapo92/Nearest_Neighborhood_Algorithm/blob/main/TSP_input%20(2).xlsx)
